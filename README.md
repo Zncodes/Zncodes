@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Zein</h1>
+<h1 align="center">Hi there everyone👋, Zein here</h1>
 <h3 align="center">Just someone who still have so much to learn, hope i can make time.</h3>
 
 - 🔭 I’m currently working on [SAVEWARDEN](https://github.com/Zncodes/SAVEWARDEN)
