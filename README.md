@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zn_arts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zn_arts" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/ahmad-muhsin-zein-788076315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad muhsin zein" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmad-muhsin-zein-788076315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad muhsin zein" height="30" width="40" /></a>
 <a href="https://instagram.com/zenscapes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zenscapes_" height="30" width="40" /></a>
 <a href="https://youtube.com/@zenscapes_?si=gPeRQPVODUnMZV4K" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zenscapes_" height="30" width="40" /></a>
 </p>
